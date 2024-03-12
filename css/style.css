@@ -18,6 +18,13 @@ hr {
   height: 0; /* 1 */
   overflow: visible; /* 2 */
 }
+body {
+  background-image: url('../css/kali.png');
+  background-size: cover; /* Adjust as needed */
+  background-repeat: no-repeat;
+ 
+}
+
 pre {
   font-family: monospace, monospace; /* 1 */
   font-size: 1em; /* 2 */
